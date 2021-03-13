@@ -44,7 +44,6 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Endereco.cs" />
-    <Compile Include="Menu.cs" />
     <Compile Include="Nome.cs" />
     <Compile Include="Idade.cs" />
     <Compile Include="Profissão.cs" />

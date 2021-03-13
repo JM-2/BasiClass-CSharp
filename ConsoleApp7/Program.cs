@@ -10,15 +10,9 @@ namespace ConsoleApp7
     {
         static void Main(string[] args)
         {
-            //menu
-            Menu menu = new Menu();
-            string menu2;
-
-            string v = menu.Menuu();
-            menu2 = v;
-
+          
             //nome
-            Console.WriteLine("Qual seu nome?");
+            Console.WriteLine("Buscar info do cliente:");
             string cliente = Console.ReadLine();
             Console.Clear();
 

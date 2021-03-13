@@ -8,7 +8,7 @@ namespace ConsoleApp7
 {
      class Nome
     {
-        private string nome = "Senhor ";
+        private string nome = "Senhor(a) ";
 
        public string Nome1() {
             return nome;
