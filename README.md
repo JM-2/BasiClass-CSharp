@@ -1,4 +1,4 @@
-**_Brincando com Classes segregadas POO C#_**
+**_Brincando com Classes segregadas - POO C#_**
 
 Pra quem é iniciante é normal fazer todo código numa mesma página, ou todos os métodos na classe principal, para programas simples isso funciona bem. Mas visando problemáticas maiores, o correto é deixar as classes mais segregadas possível, isso ajuda a deixar o código mais limpo, corrigir possíveis erros e fazer alguma alteração mais facilmente, entre outros motivos.
 
